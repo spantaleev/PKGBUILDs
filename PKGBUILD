@@ -37,4 +37,5 @@ package() {
 	install -Dm 644 $srcdir/$_gitname/$pkgname.desktop $pkgdir/usr/share/applications/$pkgname.desktop
 	install -Dm 644 $srcdir/$_gitname/$pkgname.png $pkgdir/usr/share/pixmaps/$pkgname.png
 	install -Dm 644 $srcdir/$_gitname/LICENSE.txt $pkgdir/usr/share/licenses/$pkgname/LICENSE
+	install -Dm 755 $srcdir/$_gitname/sleep.d/49-$pkgname $pkgdir/etc/pm/sleep.d/49-$pkgname
 }
