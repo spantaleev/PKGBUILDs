@@ -12,9 +12,6 @@ makedepends=('git' 'python2-distribute')
 optdepends=("openssh-askpass: allows you to enter the ssh key's password during mounting [install requires session restart]",
 						'nautilus: makes the "Open mount" button in the UI work')
 install=$pkgname.install
-source=($pkgname.desktop)
-
-md5sums=('6d73f2bb0f1e5488186ceba9e4bcbd39')
 
 _gitroot="git://github.com/spantaleev/SftpMan.git"
 _gitname="SftpMan"
@@ -37,7 +34,7 @@ package() {
 	cd "$srcdir/$_gitname"
 	python2 setup.py install --root=$pkgdir/ --optimize=1
 
-	install -Dm 644 $srcdir/$pkgname.desktop $pkgdir/usr/share/applications/$pkgname.desktop
+	install -Dm 644 $srcdir/$_gitname/$pkgname.desktop $pkgdir/usr/share/applications/$pkgname.desktop
 	install -Dm 644 $srcdir/$_gitname/$pkgname.png $pkgdir/usr/share/pixmaps/$pkgname.png
 	install -Dm 644 $srcdir/$_gitname/LICENSE.txt $pkgdir/usr/share/licenses/$pkgname/LICENSE
 }
