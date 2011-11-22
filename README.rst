@@ -1,18 +1,42 @@
-SftpMan ArchLinux AUR package
-=============================
+hunspell-bg
+-----------
 
-.. image:: https://github.com/spantaleev/sftpman-gtk/raw/master/sftpman-gui.png
+Bulgarian dictionary for Hunspell (provides Bulgarian spellcheck in LibreOffice).
 
----------------------------------------
+Homepage: http://sourceforge.net/projects/bgoffice/
 
-SftpMan consists of a Command Line and a GTK application (packaged separately) that make it simpler to setup and mount SSHFS/SFTP file systems.
+AUR: https://aur.archlinux.org/packages.php?ID=51322
 
-This repository contains the files for the `ArchLinux`_ `sftpman AUR package`_ and the `sftpman-gtk AUR package`_.
+----------------------------------------------------------------
 
-To learn more about SftpMan, see the `sftpman-gtk README`_.
+sftpman
+-------
 
+Application that handles sshfs/sftp file systems mounting.
 
-.. _ArchLinux: http://www.archlinux.org/
-.. _sftpman AUR package: http://aur.archlinux.org/packages.php?ID=49211
-.. _sftpman-gtk AUR package: http://aur.archlinux.org/packages.php?ID=49959
-.. _sftpman-gtk README: https://github.com/spantaleev/sftpman-gtk/blob/master/README.rst
+Homepage: https://github.com/spantaleev/sftpman
+
+AUR: https://aur.archlinux.org/packages.php?ID=49211
+
+----------------------------------------------------------------
+
+sftpman-gtk
+-----------
+
+GTK frontend for SftpMan (application that handles sshfs/sftp file systems mounting).
+
+Homepage: https://github.com/spantaleev/sftpman-gtk
+
+AUR: https://aur.archlinux.org/packages.php?ID=49959
+
+----------------------------------------------------------------
+
+tomighty
+--------
+
+Desktop timer for Pomodoro Technique users
+
+Homepage: http://www.tomighty.org/
+
+AUR: https://aur.archlinux.org/packages.php?ID=54097
+
