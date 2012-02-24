@@ -6,6 +6,7 @@ pkgrel=1
 pkgdesc="Bit4ID Universal Middleware (Smart Card driver)"
 arch=('i686' 'x86_64')
 license=('unknown')
+url="http://www.bit4id.com/"
 install=$pkgname.install
 
 if [ "${CARCH}" = 'x86_64' ]; then
