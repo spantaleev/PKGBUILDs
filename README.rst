@@ -5,7 +5,7 @@ Bit4ID Universal Middleware (Smart Card driver)
 
 Homepage: http://www.bit4id.com/
 
-AUR: https://aur.archlinux.org/packages.php?ID=57006
+AUR: https://aur.archlinux.org/packages/bit4id-ipki/
 
 ----------------------------------------------------------------
 
@@ -16,7 +16,7 @@ Bulgarian dictionary for Hunspell (provides Bulgarian spellcheck in LibreOffice)
 
 Homepage: http://sourceforge.net/projects/bgoffice/
 
-AUR: https://aur.archlinux.org/packages.php?ID=51322
+AUR: https://aur.archlinux.org/packages/hunspell-bg/
 
 ----------------------------------------------------------------
 
@@ -27,7 +27,7 @@ Smart Card Manager software By InfoNotary
 
 Homepage: http://www.infonotary.com/site/?p=doc_l2_3
 
-AUR: https://aur.archlinux.org/packages.php?ID=57007
+AUR: https://aur.archlinux.org/packages/infonotary-scardmanager/
 
 ----------------------------------------------------------------
 
@@ -49,7 +49,7 @@ Application that handles sshfs/sftp file systems mounting.
 
 Homepage: https://github.com/spantaleev/sftpman
 
-AUR: https://aur.archlinux.org/packages.php?ID=49211
+AUR: https://aur.archlinux.org/packages/sftpman/
 
 ----------------------------------------------------------------
 
@@ -60,7 +60,7 @@ GTK frontend for SftpMan (application that handles sshfs/sftp file systems mount
 
 Homepage: https://github.com/spantaleev/sftpman-gtk
 
-AUR: https://aur.archlinux.org/packages.php?ID=49959
+AUR: https://aur.archlinux.org/packages/sftpman-gtk/
 
 ----------------------------------------------------------------
 
@@ -71,5 +71,5 @@ Desktop timer for Pomodoro Technique users
 
 Homepage: http://www.tomighty.org/
 
-AUR: https://aur.archlinux.org/packages.php?ID=54097
+AUR: https://aur.archlinux.org/packages/tomighty/
 
