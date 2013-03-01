@@ -31,6 +31,17 @@ AUR: https://aur.archlinux.org/packages.php?ID=57007
 
 ----------------------------------------------------------------
 
+redshift-scheduler
+------------------
+
+Rule-based screen temperature changer (like `redshift <http://jonls.dk/redshift/>`_)
+
+Homepage: https://github.com/spantaleev/redshift-scheduler
+
+AUR: https://aur.archlinux.org/packages/redshift-scheduler/
+
+----------------------------------------------------------------
+
 sftpman
 -------
 
