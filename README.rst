@@ -75,6 +75,16 @@ AUR: https://aur.archlinux.org/packages/sftpman-gtk/
 
 ----------------------------------------------------------------
 
+tailman
+--------
+
+Remote tail log viewer
+
+Homepage: https://github.com/martinhjartmyr/tailman
+
+AUR: https://aur.archlinux.org/packages/tailman/
+
+
 tomighty
 --------
 
