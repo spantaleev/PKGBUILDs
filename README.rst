@@ -31,17 +31,6 @@ AUR: https://aur.archlinux.org/packages/infonotary-scardmanager/
 
 ----------------------------------------------------------------
 
-libcvp11
------------
-
-CryptoVision Smart Card driver
-
-Homepage: http://www.cryptovision.com/
-
-AUR: https://aur.archlinux.org/packages/libcvp11/
-
-----------------------------------------------------------------
-
 redshift-scheduler
 ------------------
 
@@ -84,6 +73,7 @@ Homepage: https://github.com/martinhjartmyr/tailman
 
 AUR: https://aur.archlinux.org/packages/tailman/
 
+----------------------------------------------------------------
 
 tomighty
 --------
@@ -93,4 +83,3 @@ Desktop timer for Pomodoro Technique users
 Homepage: http://www.tomighty.org/
 
 AUR: https://aur.archlinux.org/packages/tomighty/
-
