@@ -1,3 +1,16 @@
+Obsoleted
+-----------
+
+**Since the advent of AUR4, this repository has been obsoleted.**
+
+Each package represented here is now managed separately                         
+and lives in its own repository (not hosted on Github).
+
+**This repository will not get any more updates and remains here just for reference / historical purposes.**
+
+----------------------------------------------------------------
+
+
 bit4id-ipki
 -----------
 
